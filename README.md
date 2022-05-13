@@ -159,11 +159,12 @@ What project management tool will be used?
 
 GitHub organization
 
-Presentation Deck
+## Presentation Deck
+
 Make a single copy of the Presentation Deck Template. Share your copy will all team members, so everyone is working from the same file.
 
 Link to the shared doc in your project plan.
-[]
+[https://docs.google.com/presentation/d/1oHmpYkcsJvckQuJKPYPCPUHiIbbU-5vs-5v0tR1tK2Y/edit#slide=id.g2accd1c413_3_31]
 
 Schedule your practice session
 Work with your instructor to pre-schedule an date and time for your “practice run” of your presentation. This should either be an exact time, or a short window of time designated by your instructor. Plan for a 30-45 minute meeting during the class session before your actual presentation to allow time for both your practice run and feedback from the instructional team.
