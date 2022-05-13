@@ -63,6 +63,7 @@ Group consensus
 
 - Follow up
 
+
 **What will your team do if one person is taking over the project and not letting the other members contribute?**
 
 Rotate positions to give everyone a chance to lead
@@ -87,7 +88,7 @@ Try to get to root cause
 
 **How and when will you escalate the conflict if your resolution attempts are unsuccessful?**
 
-If all resolution attempts are unsuccessful, bring in third party
+If all resolution attempts are unsuccessful, bring in third party (TA or JB)
 
 ## Communication Plan
 
