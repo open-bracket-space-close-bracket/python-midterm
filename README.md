@@ -98,54 +98,56 @@ Before beginning to tackle the project, determine how your group will communicat
 
 What hours will you be available to communicate?
 
-Mon-Fri 9 a.m. -6 p.m.
+Mon-Fri 9 a.m. - 6 p.m.
 
-- Dwight: Available anytime on slack
-- Lauren: Available anytime on slack
-- Thomas: Available anytime on slack
-- James: Available anytime on slack
-- Matt: Available anytime on slack
+- Dwight: Available anytime on Slack from 9 - 6
+- Lauren: Available anytime on Slack from 9 - 6
+- Thomas: Available anytime on Slack from 9 - 6
+- James: Available anytime on Slack from 9 - 6
+- Matt: Available anytime on Slack from 9 - 6
+
+- Expect to respond within 30 minutes maximum.  We will tell the group if any one of us needs additional time away from the project. 
 
 What platforms will you use to communicate (ie. Slack, phone …)?
 
-Slack and Remo
+- Slack, Remo, and Zoom as necessary 
 
 How often will you take breaks?
 
-15 minute break every 1 hour 30 minutes, but this can be flexible
-Break as needed
+- 15 minute break every 1 hour 30 minutes, but this can be flexible: break as needed
+- Flexible lunch hour at noon - 1 PM
 
 What is your plan if you start to fall behind?
 
-Regroup and reassess features, possibly narrow scope
+- Regroup and reassess features, possibly narrow scope
 
 How will you communicate after hours and on the weekend?
 
-Slack, as needed
+- Slack, as needed
 
 What is your strategy for ensuring everyone’s voice is heard?
 
-Daily stand ups
-Check-ins
-End day Wrap up
-Be sure to ask questions
-Voice concerns
-Group consensus
+- Daily stand ups
+- Check-ins
+- End day Wrap up
+- Be sure to ask questions
+- Voice concerns (did everybody talk?)
+- Group consensus
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-Be mindful of others when communicating
-Listen
-Stand up for others
-If we experience frustration with a task, take a break
+- Be mindful of others when communicating
+- Listen
+- Stand up for others
+- If we experience frustration with a task, take a break
 
 ## Work Plan
 
 Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.
 
-Pair-programming
-Document times of who is working on what during stand up
-Use GitHub organization
+- Pair-programming, solo as needed
+- Document times of who is working on what during stand up
+- Use GitHub Projects organization
 
 NOTE: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
 
@@ -153,12 +155,12 @@ Describe at least:
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
-We will use weak-strong pairings to encourage learning
-Will assign and discuss this in stand-up and wrap-up meetings
+- We will use weak-strong pairings to encourage learning
+- Will assign and discuss this in stand-up and wrap-up meetings
 
 What project management tool will be used?
 
-GitHub organization
+- GitHub organization, with Project board
 
 ## Presentation Deck
 
@@ -194,31 +196,26 @@ Describe at least:
 
 **What components of your project will live on GitHub?**
 
-Everything: Documents, Wireframe, Front-End, Back-End
+- Everything: Documents, Wireframe, Front-End, Back-End
 
 **How will you share the repository with your teammates?**
 
-Project organization on GitHub
+- Organization on GitHub with projects board
 
 **What is your Git flow?**
 
-Features get branches
-Pull every morning
-Push on consensus
-Merges done as a group
+- Features get branches
+- Pull every morning
+- Push on consensus to staging branch
+  - Majority consensus is acceptable  
+- Merges done as a group
 
 **Will you be using a PR review workflow? If so, consider:**
-**How many people must review a PR?** 2
-**Who merges PRs?** The other pair that did not create feature
-**How often will you merge?** When necessary
-**How will you communicate that it’s time to merge?** Slack or remo
-Submitting Your Work
-This is a group submission. Only one person must submit for group credit.
-
-Please have everyone’s name at the top of the doc.
-
-Submit a link to your the GitHub markdown file where you have created your Team Agreement.
-
-This step must be completed and approved before proceeding with any project work. Notify your instructor when this is ready for review.
-
-© Code Fellows 2022
+**How many people must review a PR?** 
+- 2
+**Who merges PRs?** 
+- The other pair that did not create feature
+**How often will you merge?** 
+- At least twice per day per pair, as necessary
+**How will you communicate that it’s time to merge?** 
+- Slack, Remo or Zoom
